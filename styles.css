@@ -93,6 +93,14 @@ section {
   margin: 0 0 8px;
 }
 
+.project h3 span {
+  display: block;
+  margin-top: 4px;
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: var(--muted);
+}
+
 .stack {
   font-size: 0.9rem;
   color: var(--accent);
